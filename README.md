@@ -24,7 +24,7 @@ python -m pip install -r requirements.txt
 
 Run the command in the venv
 ```sh
-python -m rpchecker -u type_the_url_here
+python -m sitechecker -u type_the_url_here
 O status de "url" é: "Online!" 👍
 ```
 The program will return the message in brazilian portuguese.
